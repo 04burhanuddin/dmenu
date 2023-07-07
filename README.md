@@ -11,3 +11,4 @@ dmenu is an efficient dynamic menu for X. from [suckless.org](https://tools.suck
 ## Patch & Features
 
 - [Center](https://tools.suckless.org/dmenu/patches/center/) - This patch centers dmenu in the middle of the screen.
+- [Line-Height](https://tools.suckless.org/dmenu/patches/line-height/) - The patch adds a '-h' option, which sets the minimum height of a dmenu line
