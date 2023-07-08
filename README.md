@@ -1,5 +1,7 @@
 # Burhan Build of Dynamic Menu
 
+> Verison 5.2
+
 dmenu is an efficient dynamic menu for X. from [suckless.org](https://tools.suckless.org/dmenu/)
 
 ## Installation
